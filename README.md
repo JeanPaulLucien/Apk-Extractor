@@ -1,3 +1,8 @@
+### About this repository
+1. I do not develop this app.
+2. I manage this reporsitory. 
+3. Send Pull Requests in Nightly branch.
+
 # Apk Extractor
 
 Apk Extractor is an app for extracting apks from your android device.
