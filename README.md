@@ -1,6 +1,6 @@
-# apkExtractor
+# Apk Extractor
 
-apkExtractor is an app for extracting apk's from your android device.
+Apk Extractor is an app for extracting apks from your android device.
 <br>
 <a href="https://f-droid.org/repository/browse/?fdid=axp.tool.apkextractor" target="_blank">
   <img src="https://f-droid.org/badge/get-it-on.png" height="80"/>
@@ -11,8 +11,7 @@ apkExtractor is an app for extracting apk's from your android device.
 Features
 --------
 
-* Extract free apps (no root needed)
-* Extract paid apps (with root)
+* Extract free apps (no root needed), paid and system apps (with root)
 * Supports android >= 2.3.3 (api 10)
 
 License
